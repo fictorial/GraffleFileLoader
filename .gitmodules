@@ -1,0 +1,3 @@
+[submodule "OUIRTFReader"]
+	path = OUIRTFReader
+	url = git://github.com/fictorial/OUIRTFReader.git
